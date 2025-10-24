@@ -1,0 +1,29 @@
+# Jupyter checkpoints
+.ipynb_checkpoints/
+__pycache__/
+
+# Conda environment
+env/
+venv/
+.myenv/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Large data files
+*.csv
+*.pkl
+*.h5
+*.pth
+*.pt
+data/
+datasets/
+
+# Logs
+*.log
+logs/
